@@ -106,4 +106,16 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
-https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png
+`Plot1:` _(https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png)_
+![image](https://github.com/i544c/Individual-household-electric-power-consumption/assets/104391905/eabf0b61-4d2e-4e1f-9215-e02c40095089)
+
+`Plot2:` _(https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png)_
+![image](https://github.com/i544c/Individual-household-electric-power-consumption/assets/104391905/021d785c-6b4d-40eb-abee-109564c2265d)
+
+`Plot3:` _(https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png)_
+![image](https://github.com/i544c/Individual-household-electric-power-consumption/assets/104391905/1770a256-ba22-4eb2-8e82-1da4863d1dc6)
+
+`Plot4:` _(https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png)_
+![image](https://github.com/i544c/Individual-household-electric-power-consumption/assets/104391905/62e9bb6b-5350-4116-86e3-aa6e68f7d154)
+
+
