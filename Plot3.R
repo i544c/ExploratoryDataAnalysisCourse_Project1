@@ -12,15 +12,15 @@ setwd("C:/Johns Hopkins - Data Science/Exploratory Data Analysis/Peer-graded Ass
 # Package installation: ----------------------------------------------------------------------
 	if (!require("pacman")) install.packages("pacman")
 	pacman::p_load(pacman,     # Package Manager
-								 data.table, # Manipulate, process and analyze large data sets
-								 tidyverse   # organização dos dados
+		       data.table, # Manipulate, process and analyze large data sets
+		       tidyverse   # organização dos dados
 	)
 
 # Dataset: Electric Power Consumption ---------------------------------------------------------
 	uci <- read.delim("household_power_consumption.txt",
-											sep              = ";", # The field separator character
-											na.strings       = "?", # Missing values are encoded as "?"
-											stringsAsFactors = FALSE
+			  sep              = ";", # The field separator character
+			  na.strings       = "?", # Missing values are encoded as "?"
+			  stringsAsFactors = FALSE
 		)
 		
 		names(uci)
